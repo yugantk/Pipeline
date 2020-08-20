@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="remove-query-param-apikey" version="SHA-512:bebd2e662024f852231175e62f9aa7367aec21aa9ab4541f19e85d7d0f5d8dabe69cd2aea0ef00676549e0e7867693a907b8f661a0a7a4773587fd135a3b5f09"/>
+        <VersionInfo resourceName="verify-api-key" version="SHA-512:f50bda3fb8004531dbaf802e042ee6575c40cec7a979962b81ec38c7de9f78de308e704faa3afa45d17fde1126c1f057a062b64f687c073478c70f0241e155e5"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:953453ed3c5c62fddc4b622309459d8db6b0e47230fc031ee02ca7fdc4d69212b0b8c71364875826e14bcb1b1a7d1c71904401798f8976b0a27eeaedf5e369fe"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:7ec3e3898dd38045d947bb0317e2bd2c0c8b5d39dcbc07c19598169b6e2942eeecdf06458561c94523f71894c98f9487c30970143d00c7de36a025a8b4acdfe5"/>
+    </TargetEndpoints>
+</Manifest>
